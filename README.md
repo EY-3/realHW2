@@ -1,3 +1,3 @@
 # realHW2
-#Erica's real homework # 2 files
+#Erica's Real Homework No. 2
 #Includes basics of R using datasets from WHO, NBA, and National Universities
